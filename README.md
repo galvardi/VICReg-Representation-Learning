@@ -1,8 +1,8 @@
 ﻿# VICReg-Representation-Learning
 
-Creating and training a SSL VICReg model. using its representations for downstream applications such as: anomaly detection, clustering and retrieval of closest representations.
+### Creating and training a SSL VICReg model. using its representations for downstream applications such as: anomaly detection, clustering and retrieval of closest representations.
 
-Project Summary:
+## Project Summary:
 
 
 example_VICReg.py - loads the models weights and preforms linear probing for classification, as well as choosing one
